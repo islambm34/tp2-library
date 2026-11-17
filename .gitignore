@@ -1,0 +1,10 @@
+target/
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+# Eclipse specific files
+.classpath
+.project
+.settings/
